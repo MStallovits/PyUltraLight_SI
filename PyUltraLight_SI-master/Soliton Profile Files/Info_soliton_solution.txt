@@ -1,8 +1,0 @@
-The last run was for an inital soliton profile with Lambda_hat = 10
-The maximum radius was chosen to be 7.6
-Full width at half maximum density is 3.3328600200048992
-Beta is 10.19821410294339
-Mass is 29.888187363386024
-Radius at 90% mass is 2.6018400100085777
-
-Note that this file is needed to adjust the beta-parameter and Lambda_hat in the main code automatically.
