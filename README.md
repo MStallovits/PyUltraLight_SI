@@ -24,3 +24,5 @@ https://arxiv.org/pdf/2406.07419.pdf
 
 Additionally a detailed documentation is part of the PyUltraLight_SI-package. This is intended as a supplement to the original information
 (first link in this file), as most things remain the same. However, for convenience, the most important things have been repeated.
+
+You are free to use the code, but if results or publications arise out of it, please cite the original paper reference, accordingly.
